@@ -1,2 +1,2 @@
-first line added for conflict
+first line added for conflict in remote repo
 second line
